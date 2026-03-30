@@ -1,0 +1,4 @@
+activityId,activityName,startTimeLocal,duration,distance,averageSpeed,averageHR,calories,sportType
+1234567890,Corrida matinal,2024-01-15T07:30:00,1800,5000,2.78,145,350,running
+1234567891,Ciclismo,2024-01-16T06:00:00,3600,25000,6.94,135,600,cycling
+1234567892,Natação,2024-01-17T19:00:00,2700,1500,0.56,140,400,swimming

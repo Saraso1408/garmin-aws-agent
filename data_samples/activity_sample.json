@@ -1,0 +1,15 @@
+{
+  "activityId": 1234567890,
+  "activityName": "Corrida na praia",
+  "description": "Treino leve de 5km",
+  "startTimeLocal": "2024-01-15T07:30:00",
+  "duration": 1800,
+  "distance": 5000.5,
+  "averageSpeed": 2.78,
+  "averageHR": 145,
+  "maxHR": 165,
+  "calories": 350,
+  "elevationGain": 25.0,
+  "elevationLoss": 20.0,
+  "sportType": "running"
+}
