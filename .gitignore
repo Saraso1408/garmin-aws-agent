@@ -205,3 +205,7 @@ cython_debug/
 marimo/_static/
 marimo/_lsp/
 __marimo__/
+
+# Dados de exemplo
+data_samples/*.json
+data_samples/*.csv
